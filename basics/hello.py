@@ -9,7 +9,8 @@ print(x,y,z)
 
 tup = x,y,z
 
-repr('hello')
+print('hello')
 str('hello')
 print('hello')
+
 
